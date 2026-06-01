@@ -1,0 +1,1 @@
+const students = ["Sandro", "Mariam", "Dato"];
