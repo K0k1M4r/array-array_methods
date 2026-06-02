@@ -205,7 +205,7 @@ const names = ["Luka", "Nia", "Sandro", "Dato", "Giorgi"];
 
 // მოსალოდნელი შედეგი: ["Luka", "Sandro", "Dato"]
 ```
-
+<!-- შეცდომა !! უნდა დააბრუნოს  ["Luka","Nia","Sandro","Dato"]-->
 ---
 
 ## 15. კალათის ჯამური ფასი (`map` და `reduce`)
